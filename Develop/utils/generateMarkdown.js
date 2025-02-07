@@ -41,6 +41,7 @@ ${renderLicenseLink(data.license)}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Sources](#sources)
 
 ## Installation'
 ${data.installation}
@@ -55,6 +56,9 @@ ${data.contributing}
 
 ## Tests
 ${data.tests}
+
+## Sources 
+${data.sources}
 
 ## Questions
 If you have any questions, feel free to reach out:

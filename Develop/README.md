@@ -34,6 +34,10 @@ If you would like to contribute to this project, you can start by forking this r
 ## Tests
 To test your changes and review the funcionality of your new code run 'npm test' and work from there. Should you have any errors pop up, solve them before pushing your request.
 
+## Sources 
+Bootcamp 07-Node.js activies
+Stack Overflow (https://stackoverflow.com/)
+
 ## Questions
 If you have any questions, feel free to reach out:
 

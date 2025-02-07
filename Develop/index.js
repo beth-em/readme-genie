@@ -48,6 +48,11 @@ const questions = [ {
 },
 {
     type: 'input',
+    name: 'sources',
+    message: 'What resources did you use to help create this project?',
+},
+{
+    type: 'input',
     name: 'email',
     message: 'What is your email address?',
 },
