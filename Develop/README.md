@@ -39,3 +39,4 @@ If you have any questions, feel free to reach out:
 
 - Github: [beth-em](https://github.com/beth-em)
 - Email: [beth.murillo318@gmail.com](mailto:beth.murillo318@gmail.com)
+- Tutorial: [Google Drive Link](https://watch.screencastify.com/v/WDdeYp4lwFMLsOS9Bp9i)
